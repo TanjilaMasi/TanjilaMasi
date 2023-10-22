@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanjilaMasi
 - 👀 I’m interested in Python and Java coding
-- 🌱 I’m currently Pursuing BCA graduation
+- 🌱 I have completed BCA graduation
 - 📫 How to reach me @its_me_tanjil4
 
 <!---
