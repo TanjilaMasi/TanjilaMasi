@@ -33,5 +33,5 @@ I'm a highly motivated **Computer Science graduate** currently pursuing my **Mas
 
 ### 📫 **Contact Me**
 - **Email**: [tanjilaproject@gmail.com](mailto:tanjilaproject@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/tanjila-masi/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/tanjila-masi/]
 Feel free to explore my repositories, and let’s connect if you’re interested in collaborating or discussing projects! 💬
